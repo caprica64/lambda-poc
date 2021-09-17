@@ -1,2 +1,2 @@
-# lambda-poc
-Lambda with docker container PoC
+# Simple Lambda function on container with node.js
+

@@ -1,0 +1,24 @@
+{
+  "name": "lambda-poc",
+  "version": "1.0.0",
+  "description": "Lambda inside container",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caprica64/lambda-poc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caprica64/lambda-poc/issues"
+  },
+  "homepage": "https://github.com/caprica64/lambda-poc#readme",
+  "dependencies": {
+    "faker": "^5.5.3",
+    "get-stream": "^6.0.1",
+    "pdfkit": "^0.12.3"
+  }
+}
